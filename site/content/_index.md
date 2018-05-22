@@ -10,12 +10,11 @@ blurb:
     Hugo. But then, there is this other layer that makes it easy to edit this in
     the browser. Which is kind of blowing my mind.
 intro:
-  heading: What we offer
+  heading: So I can edit this in plain text?
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    If you really want to. It's stored on GitHub. But this in-browser editor
+    called "Netlify" makes it easy to edit the text while seeing a preview. Like
+    this:
 products:
   - image: img/illustrations-coffee.svg
     text: >-
