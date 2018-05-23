@@ -18,12 +18,6 @@ intro:
 products:
   - image: /img/selection_01829.png
     text: Blowing my mind.
-  - image: /img/illustrations-coffee-gear.svg
-    text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
 values:
   heading: Our values
   text: >-
