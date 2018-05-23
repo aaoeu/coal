@@ -18,14 +18,14 @@ intro:
   imageUrl: "/img/selection_01829.png"
 values:
  - heading: "Single origin"
-    text: >
+    text: >-
       Single-origin coffee is coffee grown within a single known
       geographic origin. Sometimes, this is a single farm or a
       specific collection of beans from a single country. The name of
       the coffee is then usually the place it was grown to whatever
       degree available.
     imageUrl: "/img/about-single-origin.jpg"
-  - heading: Our values
+  - heading: "Our values"
     text: >-
       Coffee is an amazing part of human culture but it has a dark side too – one
       of colonialism and mindless abuse of natural resources and human lives. We
