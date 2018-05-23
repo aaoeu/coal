@@ -15,7 +15,6 @@ intro:
     If you really want to. It's stored on GitHub. But this in-browser editor
     called "Netlify" makes it easy to edit the text while seeing a preview. Like
     this:
-products:
   - image: /img/selection_01829.png
     text: Blowing my mind.
 values:
@@ -25,9 +24,6 @@ values:
     of colonialism and mindless abuse of natural resources and human lives. We
     want to turn this around and return the coffee trade to the drink’s
     exhilarating, empowering and unifying nature.
-blurb:
-  heading: Another blurb.
-  text: >-
-    And it's also easy to add another blurb. Directly in GitHub.
+
 ---
 
