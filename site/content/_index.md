@@ -15,7 +15,6 @@ intro:
     If you really want to. It's stored on GitHub. But this in-browser editor
     called "Netlify" makes it easy to edit the text while seeing a preview. Like
     this:
-  imageUrl: "/img/selection_01829.png"
 values:
  - heading: "Single origin"
     text: >-
@@ -24,7 +23,7 @@ values:
       specific collection of beans from a single country. The name of
       the coffee is then usually the place it was grown to whatever
       degree available.
-    imageUrl: "/img/about-single-origin.jpg"
+    imageUrl: "/img/selection_01829.png"
   - heading: "Our values"
     text: >-
       Coffee is an amazing part of human culture but it has a dark side too – one
