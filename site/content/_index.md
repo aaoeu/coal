@@ -25,5 +25,9 @@ values:
     of colonialism and mindless abuse of natural resources and human lives. We
     want to turn this around and return the coffee trade to the drink’s
     exhilarating, empowering and unifying nature.
+blurb:
+  heading: Another blurb.
+  text: >-
+    And it's also easy to add another blurb. Directly in GitHub.
 ---
 
