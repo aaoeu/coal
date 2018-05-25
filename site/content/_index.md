@@ -12,8 +12,24 @@ blurb:
 intro:
   heading: So I can edit this in plain text?
   text: >-
-    If you really want to. It's stored on GitHub. But this in-browser editor
-    called "Netlify" makes it easy to edit the text while seeing a preview.
+    If you really want to. It's stored on GitHub. But there's an in-browser
+    editor called "Netlify" makes it easy to edit the text while seeing a
+    preview.
+products:
+  - image: /img/selection_01829.png
+    text: >-
+      Here's what this page looks like when you edit it in a browser. You can
+      edit in plain text, but see the preview instantly in the right pane. It's
+      all client-side Javascript so it's really, really responsive.
+values:
+  heading: Why is there a picture of a guy picking coffee berries?
+  text: >-
+    Because when you deploy a site, it starts with this random content about
+    coffee. Including the random logaoand the blog posts below. And because it's
+    the Era of GDPR, I haven't gotten much farther than just deploying the site.
 
+
+    But still. Free domain, free site, no security updates ever ... pretty
+    awesome.
 ---
 
