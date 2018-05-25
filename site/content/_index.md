@@ -9,7 +9,8 @@ blurb:
     generator. The content is stored in plain text (Markdown). It's deployed
     (turned into static HTML) using a program called Hugo. But then, there is
     this other layer called NetlifyCMS that makes it easy to edit this in the
-    browser. Which is kind of blowing my mind.
+    browser. Which is kind of blowing my mind. Also, everything is free,
+    including the domain, and there are no security updates. Ever.
 intro:
   heading: So I can edit this in plain text?
   text: >-
