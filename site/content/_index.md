@@ -27,9 +27,10 @@ products:
 values:
   heading: Why is there a picture of a guy picking coffee berries?
   text: >-
-    Because when you deploy a site, it starts with this random content about
-    coffee. Including the random logo and the blog posts below. And because it's
-    the Era of GDPR, I haven't gotten much farther than just deploying the site.
+    Because when you deploy a site, it starts with this random content about a
+    fake but exceedingly enlightened coffee company. Including the random logo
+    and the blog posts below. And because it's the Era of GDPR, I haven't gotten
+    much farther than just deploying the site.
 
 
     But still. Free domain, free site, no security updates ever ... pretty
