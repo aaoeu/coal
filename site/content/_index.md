@@ -22,6 +22,8 @@ products:
       Here's what this page looks like when you edit it in a browser. You can
       edit in plain text, but see the preview instantly in the right pane. It's
       all client-side Javascript so it's really, really responsive.
+  - image: /img/android-chrome-512x512.png
+    text: 'Also, here is a picture of an orange coffee cup. Just because.'
 values:
   heading: Why is there a picture of a guy picking coffee berries?
   text: >-
