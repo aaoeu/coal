@@ -5,10 +5,11 @@ image: /img/home-jumbotron.jpg
 blurb:
   heading: What is this site?
   text: >-
-    You're not going to believe this, but the content is stored in plain text
-    (Markdown). It's deployed (turned into static HTML) using a program called
-    Hugo. But then, there is this other layer that makes it easy to edit this in
-    the browser. Which is kind of blowing my mind.
+    This is an example of what you can do these days with a static site
+    generator. The content is stored in plain text (Markdown). It's deployed
+    (turned into static HTML) using a program called Hugo. But then, there is
+    this other layer called NetlifyCMS that makes it easy to edit this in the
+    browser. Which is kind of blowing my mind.
 intro:
   heading: So I can edit this in plain text?
   text: >-
